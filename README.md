@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashant Sinha 👋
 - **Email**: prashantsinha789@gmail.com
-- **Resume**: https://github.com/prashantsinha789/prashantsinha789/blob/main/Prashant%20Kumar%20Sinha_Senior%20Software%20Engineer_QA_IT_7_CV.pdf
+- **Resume**: https://github.com/prashantsinha789/prashantsinha789/blob/main/Prashant%20Kumar%20Sinha_CV.pdf
 - **LinkedIn**: https://www.linkedin.com/in/prashant-sinha-senior-software-engineer/
 - **Phone**: +91 8880328818
 
