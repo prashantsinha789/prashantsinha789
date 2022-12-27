@@ -54,7 +54,7 @@
 ### 3.	TechChefs Software Pvt Ltd [04/2020 to 03/2021]
 - ####  Client : Beckman Coulter
 ### 4.	Beckman Coulter [03/2021 to 09/2022]
-### 4.	Msys Technologies [09/2022 to to till date]
+### 5.	Msys Technologies [09/2022 to to till date]
 - ####  Client : Bakkt
 
 # Education (2011 to 2015)
